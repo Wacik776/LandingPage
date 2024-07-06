@@ -1,6 +1,7 @@
 # React + TypeScript + Vite
 Mobile version
-![image](https://github.com/Wacik776/LandingPage/assets/103214257/0e4be20c-ee69-448e-b087-facc17f63f65)
+![image](https://github.com/Wacik776/LandingPage/assets/103214257/8b3e113d-2211-494a-bc8b-02bccd49ea74)
+
 
 Desktop version
 ![image](https://github.com/Wacik776/LandingPage/assets/103214257/034c65c7-74a9-4028-92cb-6ad5fda6a131)
