@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Epilogue';
+    src: local('Epilogue'), url('./fonts/Epilogue-Regular.ttf') format('truetype');
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    font-family: 'Epilogue', sans-serif;
+    background: hsla(180, 55%, 33%, 0.836);
+}
+
+svg{
+    display: flex;
+    align-items: center;
+}
