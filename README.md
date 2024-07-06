@@ -1,5 +1,7 @@
 # React + TypeScript + Vite
 Mobile version
+
+
 ![image](https://github.com/Wacik776/LandingPage/assets/103214257/8b3e113d-2211-494a-bc8b-02bccd49ea74)
 
 
